@@ -1,9 +1,9 @@
 {
-  "key": "T-1c8e59",
+  "key": "T-1fc748",
   "parent": null,
-  "title": "gsfsdf",
+  "title": "Bornedz bug fix",
   "description": null,
-  "status": "doing",
+  "status": "review",
   "priority": "medium",
   "assignee": "Nobilis Benz",
   "createdBy": "Nobilis Benz",
@@ -17,6 +17,6 @@
   "attachments": [],
   "subtasks": [],
   "visibility": "internal",
-  "createdAt": "2026-09-06T00:16:48.091Z",
-  "updatedAt": "2026-09-06T10:59:10.837Z"
+  "createdAt": "2026-09-06T11:00:06.031Z",
+  "updatedAt": "2026-09-06T11:00:06.031Z"
 }
