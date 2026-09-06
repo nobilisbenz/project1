@@ -1,2 +1,18 @@
+# Links this working copy to a yPM project.
+# Written once by yPM; yours to edit from here on.
+
 project_slug = "project1"
 
+# Which branch counts as the trunk, most preferred first.
+# Defaults to main, then master. Side branches are read whatever
+# they are called, so this rarely needs setting.
+# branches = ["main", "develop"]
+
+[automation]
+# "closes T-4f2a01" in a commit message moves that task to done.
+close_on_keyword = true
+
+# Move a referenced task out of "todo" on its first commit. A branch
+# named after a task counts, so "feat/T-4f2a01-handles" starts it even
+# when no commit message mentions the key.
+# first_commit_on_branch = "doing"
