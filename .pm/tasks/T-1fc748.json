@@ -3,7 +3,7 @@
   "parent": null,
   "title": "Bornedz bug fix",
   "description": null,
-  "status": "review",
+  "status": "done",
   "priority": "medium",
   "assignee": "Nobilis Benz",
   "createdBy": "Nobilis Benz",
@@ -18,5 +18,5 @@
   "subtasks": [],
   "visibility": "internal",
   "createdAt": "2026-09-06T11:00:06.031Z",
-  "updatedAt": "2026-09-06T11:00:06.031Z"
+  "updatedAt": "2026-09-06T11:08:41.257Z"
 }

@@ -7,10 +7,10 @@
   "members": [],
   "taskCounts": {
     "todo": 1,
-    "doing": 1,
+    "doing": 0,
     "review": 1,
-    "done": 0
+    "done": 1
   },
   "totalTasks": 3,
-  "lastActivityAt": "2026-09-06T11:00:53.527Z"
+  "lastActivityAt": "2026-09-06T11:08:54.937Z"
 }
