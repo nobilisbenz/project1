@@ -1,0 +1,3 @@
+.pm/tasks/*.json  merge=ours linguist-generated=true
+.pm/project.json  merge=ours linguist-generated=true
+.pm/CHANGELOG.md  merge=ours linguist-generated=true

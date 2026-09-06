@@ -1,0 +1,22 @@
+{
+  "key": "T-9e2acd",
+  "parent": null,
+  "title": "p1 task 1",
+  "description": null,
+  "status": "todo",
+  "priority": "low",
+  "assignee": "Nobilis Benz",
+  "createdBy": "Nobilis Benz",
+  "dueDate": null,
+  "startDate": null,
+  "tags": [],
+  "estimate": null,
+  "cycle": null,
+  "blockedBy": [],
+  "fields": {},
+  "attachments": [],
+  "subtasks": [],
+  "visibility": "internal",
+  "createdAt": "2026-09-06T00:09:08.833Z",
+  "updatedAt": "2026-09-06T00:09:08.833Z"
+}
