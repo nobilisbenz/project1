@@ -3,7 +3,7 @@
   "parent": null,
   "title": "gsfsdf",
   "description": null,
-  "status": "review",
+  "status": "done",
   "priority": "medium",
   "assignee": "Nobilis Benz",
   "createdBy": "Nobilis Benz",
@@ -18,5 +18,5 @@
   "subtasks": [],
   "visibility": "internal",
   "createdAt": "2026-09-06T00:16:48.091Z",
-  "updatedAt": "2026-09-06T11:08:54.937Z"
+  "updatedAt": "2026-09-09T18:17:07.550Z"
 }
